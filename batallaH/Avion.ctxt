@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Avion
+comment1.params=flota\ placa\ piloto
+comment1.target=Avion(Flota,\ java.lang.String,\ Marino)
+comment2.params=
+comment2.target=Marino\ getPiloto()
+comment3.params=
+comment3.target=boolean\ esDebil()
+comment4.params=longitud\ latitud
+comment4.target=boolean\ seranDestruidas(int,\ int)
+comment5.params=instruccion
+comment5.target=boolean\ buscarMaquina(java.lang.String)
+comment6.params=instruccion
+comment6.target=void\ autoDestruccion(java.lang.String)
+comment7.params=marinos
+comment7.target=Marino\ pilotos(java.util.ArrayList)
+numComments=8

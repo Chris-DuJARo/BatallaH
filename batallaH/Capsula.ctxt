@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Capsula
+comment1.params=flota\ nodriza
+comment1.target=Capsula(Flota,\ Barco)
+comment2.params=flota\ nodriz
+comment2.target=Capsula(Flota,\ Capsula)
+comment3.params=nodriza
+comment3.target=void\ soyNodriza(Capsula)
+comment4.params=
+comment4.target=int\ getProfundidad()
+comment5.params=profundidad
+comment5.target=void\ setProfundidad(int)
+comment6.params=instruccion
+comment6.target=boolean\ buscarMaquina(java.lang.String)
+comment7.params=longitud\ latitud
+comment7.target=boolean\ seranDestruidas(int,\ int)
+comment8.params=
+comment8.target=boolean\ esDebil()
+comment9.params=instruccion
+comment9.target=void\ autoDestruccion(java.lang.String)
+numComments=10

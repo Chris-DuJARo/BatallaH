@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Barco
+comment1.params=flota\ numero
+comment1.target=Barco(Flota,\ int)
+comment2.params=
+comment2.target=boolean\ esDebil()
+comment3.params=instruccion
+comment3.target=boolean\ buscarMaquina(java.lang.String)
+comment4.params=longitud\ latitud
+comment4.target=boolean\ seranDestruidas(int,\ int)
+comment5.params=instruccion
+comment5.target=void\ autoDestruccion(java.lang.String)
+numComments=6

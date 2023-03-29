@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Marino
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=instruccion
+comment2.target=void\ autoDestruccion(java.lang.String)
+numComments=3

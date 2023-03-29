@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Maquina
+comment1.params=flota
+comment1.target=Maquina(Flota)
+comment2.params=
+comment2.target=void\ alNorte()
+comment3.params=dLon\ dLan
+comment3.target=void\ avance(int,\ int)
+comment4.params=
+comment4.target=boolean\ esDebil()
+comment5.params=longitud\ latitud
+comment5.target=boolean\ seranDestruidas(int,\ int)
+comment6.params=instruccion
+comment6.target=void\ autoDestruccion(java.lang.String)
+comment7.params=instruccion
+comment7.target=boolean\ buscarMaquina(java.lang.String)
+comment8.params=longitud\ latitud
+comment8.target=boolean\ getCoordenadas(int,\ int)
+comment9.params=lon\ lat
+comment9.target=void\ ataquen(int,\ int)
+numComments=10
